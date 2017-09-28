@@ -2,7 +2,7 @@ Computery Guy's Song
 
 Parte 1
 
-I'm a computer, I'm a computery guy
+  I'm a computer, I'm a computery guy
 Everything made out of buttons and wires
 I'd like to show ya inside my digital life
 Inside my mind there is a digital mind
